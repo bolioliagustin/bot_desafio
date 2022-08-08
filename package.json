@@ -14,7 +14,6 @@
   "author": "PegatZus",
   "license": "ISC",
   "dependencies": {
-    "actions-on-google": "^3.0.0",
     "axios": "^0.27.2",
     "dialogflow": "^1.2.0",
     "dialogflow-fulfillment": "^0.6.1",
