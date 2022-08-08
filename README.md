@@ -8,10 +8,6 @@
 </h1>
 <h4 align="center">Toda la informacion actualizada de la F1 2022.</h4>
 
-
-
-
-
 ## Caracteristicas
 |Estado |GET|FUNCION|
 |:----|:----|:----|
@@ -31,19 +27,14 @@
 | ❌|ConstructorRaceResult|Resultados de constructores en una carrera|
 
 ## Como usarlo
-<img href ="t.me/F1_22_Bot" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/512px-Telegram_logo.svg.png" alt="telegram" width="100">
+<img href ="https://t.me/F1_22_Bot" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/512px-Telegram_logo.svg.png" alt="telegram" width="100">
 
- [Telegram](t.me/F1_22_Bot)
-
-
-
-
+ [Telegram](https://t.me/F1_22_Bot)
 
 ## Tecnologias
 
 * Dialogflow
 * Node.js
 * Heroku
-
 
 > GitHub [@bolioliagustin](https://github.com/bolioliagustin) &nbsp;&middot;&nbsp;
